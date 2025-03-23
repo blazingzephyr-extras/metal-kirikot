@@ -1,0 +1,16 @@
+{
+    "apps": [
+        {
+            "name": "Metal Kirikot",
+            "script": "./Compiled/index.js",
+            "cwd": "./",
+            "exec_mode": "cluster",
+            "watch": [ "./Compiled" ],
+            "ignore_watch": [ "./node_modules", "./Logs", "./Data" ],
+            "autorestart": false,
+            "env": {
+                "NODE_ENV": "production"
+            }
+        }
+    ]
+}

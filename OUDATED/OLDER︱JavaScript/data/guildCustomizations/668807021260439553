@@ -1,0 +1,16 @@
+m!
+en-US
+null
+null
+false
+kick ban avatar guildInfo ascii serverList channelInfo ship tempBan mute tempMute moderationList unban
+true
+646937908275838976
+
+
+
+Hello there! You've been kicked in **{GUILD}** for **{REASON}**!
+Hello there! You've been banned in **{GUILD}** for **{REASON}**!
+Hello there! You've been temporarily banned in **{GUILD}** for **{REASON}** for **${DURATION}**!
+Hello there! You've been muted in **{GUILD}** for **{REASON}**!
+Hello there! You've been temporarily muted in **{GUILD}** for **{REASON}** for **${DURATION}**!

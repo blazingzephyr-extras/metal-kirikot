@@ -1,0 +1,65 @@
+{
+  "_from": "js-binary@^1.2.0",
+  "_id": "js-binary@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-llsM9S4L5GR9BLH+5/z/7oAqKg0lRccUwBDaSyTiB8DZi3TJ97Jx7C90Xy0FdPec93a7VVmh2nMhTTDb1FjFDQ==",
+  "_location": "/js-binary",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "js-binary@^1.2.0",
+    "name": "js-binary",
+    "escapedName": "js-binary",
+    "rawSpec": "^1.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.2.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/js-binary/-/js-binary-1.2.0.tgz",
+  "_shasum": "59ecd73f936183c06a1ed72a811656ce6b84f65c",
+  "_spec": "js-binary@^1.2.0",
+  "_where": "E:\\Metal Kirikot",
+  "author": {
+    "name": "Sitegui",
+    "email": "sitegui@sitegui.com.br"
+  },
+  "bugs": {
+    "url": "https://github.com/sitegui/js-binary/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Encode/decode to a custom binary format, much more compact and faster than JSON/BSON",
+  "devDependencies": {
+    "jsdoc": "^3.5.5",
+    "mocha": "^4.0.1",
+    "should": "^13.1.3"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "homepage": "https://github.com/sitegui/js-binary#readme",
+  "keywords": [
+    "binary",
+    "parse",
+    "encode",
+    "decode",
+    "json"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "name": "js-binary",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitegui/js-binary.git"
+  },
+  "scripts": {
+    "docs": "jsdoc -d docs -c docs.json -R README.md",
+    "test": "mocha test"
+  },
+  "version": "1.2.0"
+}

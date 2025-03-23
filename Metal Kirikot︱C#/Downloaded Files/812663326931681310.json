@@ -1,0 +1,10 @@
+{
+    "channel": 802499192735006761, 
+    "title": "Idea Test",
+    "description": "Test idea, nothing special?",
+    "fields": [
+        { "name": "e", "value": "g", "inline": false }
+    ],
+    "imageUrl": "https://cdn.discordapp.com/attachments/618454737788076032/812651360104349726/cabbage.png",
+    "color": "#845613"
+}

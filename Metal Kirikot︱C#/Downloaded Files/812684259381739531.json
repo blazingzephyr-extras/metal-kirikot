@@ -1,0 +1,17 @@
+{
+    "channel": 811257865741402153, 
+    "title": "New Possible World and Plants",
+    "description": "Had this idea for like a week or two in mind, but decided to show it off right now. Not confirmed that it will be used yet.",
+    "fields": [
+        { "name": "Hawaiian World — New World!", "value": "World which has two parts. Half of this world like BWB with tides n' stuff, required Lily Pads. Second half takes place in a volcano and shares a lot of similarities like Lava Reef.", "inline": false },
+        { "name": "Lava Guava — New Plant!", "value": "Redesign of its PvZ2 counterpart.", "inline": false },
+        { "name": "Fire Peashooter — New upgrade!", "value": "Peashooter's Fire Upgrade (Tier I).", "inline": true },
+        { "name": "Magma Peashooter — New upgrade!", "value": "Peashooter's Fire Upgrade (Tier II).", "inline": true },
+        { "name": "Plasma Peashooter — New upgrade!", "value": "Peashooter's Fire Upgrade (Tier III).", "inline": true },
+        { "name": "Gimmick #1 — Tides", "value": "The same gimmick from Big Wave Beach from PvZ2.", "inline": true },
+        { "name": "Gimmick #2 — Low Tides", "value": "Spawns zombies on big waves and when tide is going away.", "inline": true },
+        { "name": "Gimmick #3 — Lava", "value": "Spawns lava tiles randomly all over the lawn.", "inline": true }
+    ],
+    "imageUrl": "https://cdn.discordapp.com/attachments/618454737788076032/812680440045240330/Lava.png",
+    "color": "#891045"
+}

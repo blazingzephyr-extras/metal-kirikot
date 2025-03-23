@@ -1,0 +1,4 @@
+[NAME] Bot Test Server
+[LANGUAGE] ENG
+[PREFIX] metal!
+[LOGCHANNEL] log

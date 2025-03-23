@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/mongodb": "^3.6.12",
+    "@types/node": "^14.14.41",
+    "discord.js": "^12.5.3",
+    "fs": "*",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.5"
+  }
+}

@@ -1,0 +1,89 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSharpPlus", "DSharpPlus\DSharpPlus.csproj", "{EB3D8310-DFAD-4295-97F9-82E253647583}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSharpPlus.VoiceNext", "DSharpPlus.VoiceNext\DSharpPlus.VoiceNext.csproj", "{FB6B9EE9-65FB-4DFB-8D51-06F0BE6C1BA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4255B64D-92EC-46B3-BC3B-ED2C3A8073EE}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSharpPlus.Interactivity", "DSharpPlus.Interactivity\DSharpPlus.Interactivity.csproj", "{DD32BEC3-0189-479F-86DC-CCF95E5634A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSharpPlus.Rest", "DSharpPlus.Rest\DSharpPlus.Rest.csproj", "{E5E0EBFA-06CD-4F28-B60E-4B65860344F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build Items", "Build Items", "{84464D70-687B-40A8-836D-C4F737698969}"
+	ProjectSection(SolutionItems) = preProject
+		appveyor.yml = appveyor.yml
+		DSharpPlus.targets = DSharpPlus.targets
+		oneclick-rebuild.ps1 = oneclick-rebuild.ps1
+		rebuild-all.ps1 = rebuild-all.ps1
+		rebuild-docs.ps1 = rebuild-docs.ps1
+		rebuild-lib.ps1 = rebuild-lib.ps1
+		rebuild-micro.ps1 = rebuild-micro.ps1
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSharpPlus.Lavalink", "DSharpPlus.Lavalink\DSharpPlus.Lavalink.csproj", "{A8B8FB09-C6AF-4F28-89B8-B53EE0DCE6E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetalKirikot_Previous", "MetalKirikot\MetalKirikot_Previous.csproj", "{FB137A8A-761D-43CB-8D3D-F9030F39ECAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetalKirikot", "MetalKirikot\MetalKirikot.csproj", "{B7AB0223-AEF0-4C96-ADCC-C4048B7D4406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetalKirikotAlpha", "MetalKirikotAlpha\MetalKirikotAlpha.csproj", "{1A732D67-830E-49BF-B1BD-81D83EA31926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetalKirikotOmega", "MetalKirikotOmega\MetalKirikotOmega.csproj", "{B8F8B534-D99A-4A18-A0A7-3D6283EDF9CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3D8310-DFAD-4295-97F9-82E253647583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3D8310-DFAD-4295-97F9-82E253647583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3D8310-DFAD-4295-97F9-82E253647583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3D8310-DFAD-4295-97F9-82E253647583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB6B9EE9-65FB-4DFB-8D51-06F0BE6C1BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6B9EE9-65FB-4DFB-8D51-06F0BE6C1BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6B9EE9-65FB-4DFB-8D51-06F0BE6C1BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6B9EE9-65FB-4DFB-8D51-06F0BE6C1BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD32BEC3-0189-479F-86DC-CCF95E5634A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD32BEC3-0189-479F-86DC-CCF95E5634A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD32BEC3-0189-479F-86DC-CCF95E5634A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD32BEC3-0189-479F-86DC-CCF95E5634A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E0EBFA-06CD-4F28-B60E-4B65860344F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E0EBFA-06CD-4F28-B60E-4B65860344F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E0EBFA-06CD-4F28-B60E-4B65860344F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E0EBFA-06CD-4F28-B60E-4B65860344F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B8FB09-C6AF-4F28-89B8-B53EE0DCE6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B8FB09-C6AF-4F28-89B8-B53EE0DCE6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B8FB09-C6AF-4F28-89B8-B53EE0DCE6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B8FB09-C6AF-4F28-89B8-B53EE0DCE6E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB137A8A-761D-43CB-8D3D-F9030F39ECAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB137A8A-761D-43CB-8D3D-F9030F39ECAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB137A8A-761D-43CB-8D3D-F9030F39ECAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB137A8A-761D-43CB-8D3D-F9030F39ECAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7AB0223-AEF0-4C96-ADCC-C4048B7D4406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7AB0223-AEF0-4C96-ADCC-C4048B7D4406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7AB0223-AEF0-4C96-ADCC-C4048B7D4406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7AB0223-AEF0-4C96-ADCC-C4048B7D4406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A732D67-830E-49BF-B1BD-81D83EA31926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A732D67-830E-49BF-B1BD-81D83EA31926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A732D67-830E-49BF-B1BD-81D83EA31926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A732D67-830E-49BF-B1BD-81D83EA31926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F8B534-D99A-4A18-A0A7-3D6283EDF9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F8B534-D99A-4A18-A0A7-3D6283EDF9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F8B534-D99A-4A18-A0A7-3D6283EDF9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F8B534-D99A-4A18-A0A7-3D6283EDF9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23F3A981-51B8-4285-A38C-3267F1D25FE7}
+	EndGlobalSection
+EndGlobal

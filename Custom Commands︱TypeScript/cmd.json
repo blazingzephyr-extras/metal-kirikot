@@ -1,0 +1,28 @@
+{
+    "command": {
+        "name": "Test",
+        "commmandGroup": "Any",
+        "usage": ["e", "g", "g", "b", "y"],
+        "accessLevel": "Everyone",
+        "cooldown": {
+            "cooldownTarget": "Global",
+            "cooldownDuration": 1000000
+        },
+        "memberPermissions": [ "PERMS", "PERMS" ], 
+        "botPermissions": [ "PERMS", "PERMS" ],
+
+
+
+
+        
+        "execute":[
+            { 
+                "for": [
+                    {
+                        "send":[""]
+                    }
+                ]
+            }
+        ]
+    }
+}

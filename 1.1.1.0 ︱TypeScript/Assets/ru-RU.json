@@ -1,0 +1,22 @@
+{
+    "bot_created_by": "Bot created by {owner}",
+
+    "command_exec_error": "❌ Command execution error!",
+    "command_wasnt_found": "That command doesn't exist! Try using *{prefix}help*",
+    "only_for_owner": "That command can be used only by {owner}!",
+    "only_for_betatesters": "That command can be used only by bot beta testers!",
+    "dms_only": "That command can be used only in direct messages!",
+    "guild_only": "That command can be used only on a server!",
+    "guild_owner_only": "That command can be used only by {owner}!",
+    "administrator_only": "That command can be used only by admins!",
+    "not_enough_permissions": {
+        "user": "You don't have enough permissions to use that command! This command requires following permissions: {required_permissions}",
+        "bot": "I can't use that command because I don't have enough permissions! Give me following permissions to do that: {required_permissions}"
+    },
+    "command_is_on_cooldown": {
+        "global": "This command is still on cooldown! Wait more for {time} seconds to use that!",
+        "guilds": "This command is still on cooldown in this server! Wait more for {time} seconds to use that!",
+        "channels": "This command is still on cooldown in this channel! Wait more for {time} seconds to use that!",
+        "users": "You're using that too frequently! Wait more for {time} seconds to use that again!"
+    }
+}

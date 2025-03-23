@@ -1,0 +1,7 @@
+m!
+EN-US
+enabled
+646937908275838976
+
+Hello there! You've been kicked in **{GUILD}** for **{REASON}**!
+Hello there! You've been banned in **{GUILD}** for **{REASON}**!

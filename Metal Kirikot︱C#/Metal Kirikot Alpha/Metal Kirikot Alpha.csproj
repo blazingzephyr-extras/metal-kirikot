@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Metal_Kirikot_Alpha</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Utf8Json" Version="1.3.7" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Metal Kirikot\DSharpPlus.CommandsNext\DSharpPlus.CommandsNext.csproj" />
+    <ProjectReference Include="..\Metal Kirikot\DSharpPlus.Interactivity\DSharpPlus.Interactivity.csproj" />
+    <ProjectReference Include="..\Metal Kirikot\DSharpPlus.Lavalink\DSharpPlus.Lavalink.csproj" />
+    <ProjectReference Include="..\Metal Kirikot\DSharpPlus.Rest\DSharpPlus.Rest.csproj" />
+    <ProjectReference Include="..\Metal Kirikot\DSharpPlus.VoiceNext\DSharpPlus.VoiceNext.csproj" />
+    <ProjectReference Include="..\Metal Kirikot\DSharpPlus\DSharpPlus.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Metal Kirikot">
+      <HintPath>..\Metal Kirikot\Metal Kirikot\bin\Debug\net5.0\Metal Kirikot.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

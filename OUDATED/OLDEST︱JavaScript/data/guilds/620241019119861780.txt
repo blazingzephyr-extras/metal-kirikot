@@ -1,0 +1,62 @@
+[PREFIX]
+m!
+
+[LOG]
+enabled
+620963081937485834
+
+[LANGUAGE]
+ENG
+
+[AUTO_WARNING]
+enabled
+~~
+
+[WORDS_FILTER]
+enabled
+~~
+
+[SPAM_FILTER]
+enabled
+~~
+
+[MASSIVE_MENTIONS]
+enabled
+
+[KICK_PRIVATE]
+Hello there! You've been kicked in **{GUILD}** for **{REASON}**!
+
+[BAN_PRIVATE]
+Hello there! You've been banned in **{GUILD}** for **{REASON}**!
+
+[WELCOME_MESSAGE]
+disabled
+~~
+{MEMBER} has joined our server! We now have **{MEMBER_COUNT}** members!🤗
+~~
+
+[WELCOME_MESSAGE_PRIVATE]
+disabled
+Have a good time here in {GUILD}!😉
+
+[FAREWELL_MESSAGE]
+disabled
+~~
+**{MEMBER}** just left our server! We now have {MEMBER_COUNT} members...😭
+
+[BOOST_MESSAGE]
+disabled
+~~
+**{BOOSTER}** just boosted our server! Server Boos Level: {LEVEL}!
+~~
+
+[LEVELS]
+100
+1.5
+~~
+
+[MUSIC]
+~~
+
+[VOLUME]
+100

@@ -1,0 +1,82 @@
+{
+    "error": "Ошибка!❌",
+
+    "not_enough_permissions": "У тебя не достаточно прав",
+    "get_permission_to_kick": "*Получи право выгонять пользователей сначало!*",
+    "get_permission_to_ban": "*Получи право банить пользователей сначало!*",
+
+    "bot_have_no_pemissions": "У меня не достаточно прав!",
+    "give_permission_to_kick": "*Сначало дайте мне право выгонять пользовтаелей!*",
+    "give_permission_to_ban": "*Сначало дайте мне право банить пользовтаелей!*",
+
+    "didnt_set_user_to_kick": "Ты не выбрал пользователя для кика!",
+    "didnt_set_user_to_ban": "Ты не выбрал пользователя для бана!",
+    "set_the_user": "*Выбери пользователя!*",
+
+    "user_didnt_find": "В это сервере нету пользователя с этим ником!",
+    "give_users_name_or_mention": "*Предоставьте правильный ник пользователя или упомняните его!*",
+
+    "cant_kick_yourself": "Ты не можешь выгнать себя!",
+    "cant_ban_yourself": "Ты не можешь забанить себя!",
+
+    "bot_cant_kick_himself": "Я не могу выгнать сам себя!",
+    "bot_cant_ban_himself": "Я не могу забанить сам себя!",
+
+    "cant_kick_that_user1": "Я не могу выгнать пользователя ",
+    "cant_kick_that_user2": " с сервера!",
+    "cant_ban_that_user1": "Я не могу забанить пользователя ",
+    "cant_ban_that_user2": " на сервере!",
+    "because_user_has_role_above": "*потому что их роль выше твоей!*",
+    "because_user_is_administrator": "*потому что они администратор!*",
+    "because_user_is_owner": "*потому что они владелец этого сервера!*",
+    "because_user_is_creator_of_bot": "*потому что он мой создатель!*",
+
+    "didnt_give_the_reason_to_kick": "Ты не написал причину кика!",
+    "didnt_give_the_reason_to_ban": "Ты не написал причину бана!",
+    "give_the_reason": "*Напиши причину сначало!*",
+
+    "unable_to_kick_the_user": "Я не сумел выгнать того пользователя!",
+    "unable_to_ban_the_user": "Я не сумел забанить того пользователя!",
+    "because_bot_cant_send_a_message": "*Потому что я не могу отправить им сообщения!*",
+
+    "success": "Успех!✅",
+    "successfully_kicked1": "Я успешно выгнал пользователя ",
+    "successfully_kicked2": " с сервера!",
+    "successfully_banned1": "Я успешно забанил пользователя ",
+    "successfully_banned2": " с сервера!",
+    "reason": "*Причина: ",
+
+    
+    "info": "Информация о ",
+    "event_kicked1": " выгнал пользователя ",
+    "event_kicked2": " с сервера!",
+    "event_banned1": " забанил пользователя ",
+    "event_banned2": " с сервера!",
+    "joined_guild": "Присоединился в:",
+    "kicked_by": "Выгнан пользователем",
+    "banned_by": "Забанен пользователем",
+    "reason_why_kicked": "Причина почему выгнан:",
+    "reason_why_banned": "Причина почему забанен:",
+    "kicked_at": "Выгнан в:",
+    "banned_at": "Забанен в:",
+    "region": "Регион:",
+    "owner": "Владелец Сервера:",
+    "created_at": "Дата создания:",
+    "verification_level": "Уровень проверки:",
+    "verification_level0": "Отсутствует",
+    "verification_level1": "Низкий",
+    "verification_level2": "Средний",
+    "verification_level3": "",
+    "verification_level4": "",
+    "none": "Отсутствует",
+    "afkChannel": "Канал AFK:",
+    "afkTimeout": "Время AFK:",
+    "gefault_channel": "Системный канал:",
+    "minutes": " минут",
+    "afk_1minute": "1 минута",
+    "afk_more_than_1minute": " минут",
+    "afk_1hour": "1 час",
+    "channels": "Каналы: ",
+    "roles": "Роли: ",
+    "emojis": "Эмодзи: "
+}

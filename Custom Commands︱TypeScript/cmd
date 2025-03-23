@@ -1,0 +1,41 @@
+<command>
+    <name>
+        test
+    </name>
+
+    <commmandGroup>
+        any
+    </commmandGroup>
+
+    <usage>
+        e, g, g, b, y
+    </usage>
+
+    <accessLevel>
+        everyone
+    </accessLevel>
+
+    <cooldown>
+        <cooldownTarget>
+            Global
+        </cooldownTarget>
+        <cooldownDuration>
+            1000
+        </cooldownDuration>
+    </cooldown>
+
+    <memberPermissions>
+        PERMS, PERMS
+    </memberPermissions>
+
+    <botPermissions>
+        PERMS, PERMS
+    </botPermissions>
+
+    <execute>
+        <for>
+            <send>
+            </send>
+        </for>
+    </execute>
+</command>

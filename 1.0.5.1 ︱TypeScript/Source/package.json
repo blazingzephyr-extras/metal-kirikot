@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/mongodb": "^3.6.12",
+    "@types/node": "^15.0.1",
+    "discord.js": "^12.5.3"
+  }
+}

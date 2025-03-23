@@ -1,0 +1,16 @@
+{
+    "defaultPrefix": "metal!",
+    "avatar": "avatar",
+    "prefixset": "prefixset",
+    "play": "play",
+    
+    "success": "Success!",
+    "error": "Error!❌",
+
+    "didnt_join_voice_chat": "You didn't join the voice chat yet!",
+    "join_the_voice_chat": "*Join the voice chat first!*",
+    "didnt_give_the_link": "You didn't give link of the video!",
+    "give_link_first": "*Give the link first!",
+    "now_playing": "Now playing **${link}**!",
+    "requested_by": "*Requested by *${message.author}**"
+}

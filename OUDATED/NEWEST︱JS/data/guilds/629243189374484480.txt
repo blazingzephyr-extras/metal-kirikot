@@ -1,0 +1,7 @@
+m!
+EN-US
+disabled
+~~
+
+Hello there! You've been kicked in **{GUILD}** for **{REASON}**!
+Hello there! You've been banned in **{GUILD}** for **{REASON}**!

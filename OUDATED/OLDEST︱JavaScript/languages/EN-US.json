@@ -1,0 +1,83 @@
+{
+    "error": "Error!❌",
+
+    "not_enough_permissions": "You don't have enough permissions",
+    "get_permission_to_kick": "*Get permission to kick first!*",
+    "get_permission_to_ban": "*Get permission to ban first!*",
+
+    "bot_have_no_pemissions": "I don't have enough permissions!",
+    "give_permission_to_kick": "*Give me permission to kick first!*",
+    "give_permission_to_ban": "*Give me permission to ban first!*",
+
+    "didnt_set_user_to_kick": "You didn't set the user to kick!",
+    "didnt_set_user_to_ban": "You didn't set the user to ban!",
+    "set_the_user": "*Set the user first!*",
+
+    "user_didnt_find": "There is no user called like this in the server!",
+    "give_users_name_or_mention": "*Provide valid user's name or a mention!*",
+
+    "cant_kick_yourself": "You can't kick yourself!",
+    "cant_ban_yourself": "You can't ban yourself!",
+
+    "bot_cant_kick_himself": "I can't kick myself!",
+    "bot_cant_ban_himself": "I can't ban myself!",
+
+    "cant_kick_that_user1": "I can't kick user ",
+    "cant_kick_that_user2": " from the server!",
+    "cant_ban_that_user1": "I can't ban user ",
+    "cant_ban_that_user2": " from the server!",
+    "because_user_has_role_above": "*because their role is above yours!*",
+    "because_user_is_administrator": "*because they'are an administrator*",
+    "because_user_is_owner": "*because they'are an owner of the server!*",
+    "because_user_is_creator_of_bot": "*because he's my creator!*",
+
+    "didnt_give_the_reason_to_kick": "You didn't give the reason to kick!",
+    "didnt_give_the_reason_to_ban": "You didn't give the reason the ban!",
+    "give_the_reason": "*Give the reason first!*",
+
+    "unable_to_kick_the_user": "I was unable to kick that user!",
+    "unable_to_ban_the_user": "I was unable to ban that user!",
+    "because_bot_cant_send_a_message": "*Because I can't send a message to them!*",
+
+    "success": "Success!✅",
+    "successfully_kicked1": "Successfully kicked user ",
+    "successfully_kicked2": " from the server!",
+    "successfully_banned1": "Successfully banned user ",
+    "successfully_banned2": " from the server!",
+    "reason": "*Reason: ",
+
+    
+    "info": " Info",
+    "event_kicked1": " kicked user ",
+    "event_kicked2": " from the server!",
+    "event_banned1": " banned user ",
+    "event_banned2": " from the server!",
+    "joined_guild": "Joined this server at:",
+    "kicked_by": "Kicked by:",
+    "banned_by": "Banned by:",
+    "reason_why_kicked": "Reason why kicked:",
+    "reason_why_banned": "Reason why banned:",
+    "kicked_at": "Kicked at:",
+    "banned_at": "Banned at:",
+    "region": "Region:",
+    "region1": ["1", "2"],
+    "owner": "Server Owner:",
+    "created_at": "Created At:",
+    "verification_level": "Verification Level:",
+    "verification_level[0]": "None",
+    "verification_level[1]": "Low",
+    "verification_level[2]": "Medium",
+    "verification_level[3]": "",
+    "verification_level[4]": "",
+    "none": "None",
+    "afkChannel": "AFK Channel:",
+    "afkTimeout": "AFK Timeout:",
+    "gefault_channel": "Default Channel:",
+    "minutes": " minutes",
+    "afk_1minute": "1 minute",
+    "afk_more_than_1minute": " minutes",
+    "afk_1hour": "1 hour",
+    "channels": "Channels: ",
+    "roles": "Roles: ",
+    "emojis": "Emojis: "
+}

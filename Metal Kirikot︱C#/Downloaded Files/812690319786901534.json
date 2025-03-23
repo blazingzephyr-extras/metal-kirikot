@@ -1,0 +1,11 @@
+{
+    "channel": 811257865741402153, 
+    "title": "Hawaiian World — Addition #1",
+    "description": "More concepts for Hawaiian World.",
+    "fields": [
+        { "name": "Banana Launcher — New Plant!", "value": "Redesign of its PvZ2 counterpart.", "inline": false },
+        { "name": "Cold Banana — New upgrade!", "value": "Banana Launcher's Ice Upgrade (Tier I).", "inline": true }
+    ],
+    "imageUrl": "https://cdn.discordapp.com/attachments/618454737788076032/812690158939668500/Lava.png",
+    "color": "#891045"
+}
